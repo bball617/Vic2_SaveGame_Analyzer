@@ -1,0 +1,2745 @@
+Number,State
+1,Alaska
+2,Alaska
+3,Alaska
+4,Alaska
+5,Alaska
+2599,Alaska
+2630,Alaska
+2631,Alaska
+6,Yukon
+7,Yukon
+11,Northwest Territories
+2595,Northwest Territories
+2596,Northwest Territories
+2598,Northwest Territories
+6,Northwest Territories
+7,Northwest Territories
+13,Columbia
+14,Columbia
+20,Columbia
+21,Columbia
+15,Columbia
+19,Columbia
+16,Columbia
+18,Columbia
+17,Columbia
+2629,Columbia
+18,New Caledonia
+17,New Caledonia
+2629,New Caledonia
+27,Alberta
+26,Alberta
+22,Alberta
+23,Alberta
+24,Alberta
+25,Alberta
+28,Alberta
+2597,Alberta
+30,Saskatchewan
+31,Saskatchewan
+32,Saskatchewan
+33,Saskatchewan
+34,Saskatchewan
+35,Saskatchewan
+42,Manitoba
+36,Manitoba
+37,Manitoba
+38,Manitoba
+39,Manitoba
+40,Manitoba
+41,Manitoba
+46,Southern Ontario
+50,Southern Ontario
+51,Southern Ontario
+57,Southern Ontario
+55,Southern Ontario
+56,Southern Ontario
+52,Southern Ontario
+53,Southern Ontario
+54,Southern Ontario
+49,Northern Ontario
+47,Northern Ontario
+48,Northern Ontario
+2594,Northern Ontario
+58,Southern Quebec
+65,Southern Quebec
+62,Southern Quebec
+61,Southern Quebec
+63,Southern Quebec
+64,Southern Quebec
+66,Southern Quebec
+67,Southern Quebec
+9,Northern Quebec
+59,Northern Quebec
+2593,Northern Quebec
+2626,Northern Quebec
+2592,Northern Quebec
+68,Maritimes
+69,Maritimes
+70,Maritimes
+71,Maritimes
+72,Maritimes
+73,Maritimes
+74,Newfoundland
+75,Newfoundland
+76,Newfoundland
+77,Newfoundland
+2625,Newfoundland
+78,Washington
+79,Washington
+80,Washington
+81,Oregon
+82,Oregon
+83,Oregon
+89,California
+84,California
+85,California
+86,California
+87,California
+88,California
+90,California
+104,California
+91,Idaho
+92,Idaho
+93,Idaho
+94,Nevada
+96,Nevada
+95,Nevada
+97,Utah
+98,Utah
+99,Utah
+100,Arizona
+101,Arizona
+102,Arizona
+105,New Mexico
+2148,New Mexico
+2662,New Mexico
+103,Colorado
+106,Colorado
+108,Colorado
+109,Colorado
+112,Wyoming
+107,Wyoming
+110,Wyoming
+111,Wyoming
+113,Montana
+116,Montana
+115,Montana
+114,Montana
+117,North Dakota
+118,North Dakota
+119,North Dakota
+120,South Dakota
+121,South Dakota
+122,South Dakota
+123,Nebraska
+124,Nebraska
+125,Nebraska
+126,Kansas
+127,Kansas
+128,Kansas
+131,Oklahoma
+129,Oklahoma
+130,Oklahoma
+133,Texas
+43,Texas
+132,Texas
+134,Texas
+135,Texas
+136,Texas
+137,Texas
+138,Texas
+139,Louisiana
+140,Louisiana
+141,Louisiana
+142,Louisiana
+143,Arkansas
+144,Arkansas
+145,Arkansas
+146,Missouri
+148,Missouri
+147,Missouri
+149,Missouri
+150,Missouri
+151,Iowa
+152,Iowa
+153,Iowa
+154,Iowa
+155,Minnesota
+156,Minnesota
+157,Minnesota
+158,Minnesota
+159,Wisconsin
+160,Wisconsin
+161,Wisconsin
+162,Wisconsin
+163,Illinois
+168,Illinois
+167,Illinois
+166,Illinois
+165,Illinois
+164,Illinois
+169,Indiana
+170,Indiana
+172,Indiana
+171,Indiana
+173,Michigan
+174,Michigan
+175,Michigan
+176,Michigan
+177,Michigan
+179,Ohio
+178,Ohio
+180,Ohio
+183,Ohio
+182,Ohio
+181,Ohio
+184,Kentucky
+185,Kentucky
+186,Kentucky
+187,Kentucky
+188,Tennessee
+189,Tennessee
+191,Tennessee
+190,Tennessee
+194,Mississippi
+192,Mississippi
+193,Mississippi
+195,Alabama
+196,Alabama
+197,Alabama
+198,Florida
+200,Florida
+199,Florida
+201,Georgia
+202,Georgia
+204,Georgia
+2555,Georgia
+205,South Carolina
+206,South Carolina
+209,North Carolina
+207,North Carolina
+208,North Carolina
+210,North Carolina
+2556,North Carolina
+60,Virginia
+211,Virginia
+212,Virginia
+213,Virginia
+214,Virginia
+215,Virginia
+216,Virginia
+218,West Virginia
+217,West Virginia
+2146,Maryland
+220,Maryland
+219,Maryland
+222,Maryland
+221,Maryland
+223,Pennsylvania
+224,Pennsylvania
+225,Pennsylvania
+226,Pennsylvania
+227,Pennsylvania
+228,Pennsylvania
+2627,Pennsylvania
+229,New Jersey
+231,New Jersey
+230,New Jersey
+232,New York
+233,New York
+234,New York
+235,New York
+236,New York
+237,New York
+238,New York
+239,New York
+240,New York
+243,Massachusets
+244,Massachusets
+245,Massachusets
+241,Massachusets
+242,Massachusets
+247,New England
+246,New England
+248,New England
+249,New England
+250,New England
+254,Ulster
+255,Ulster
+256,Ulster
+258,Connacht
+259,Connacht
+257,Connacht
+260,Munster
+261,Munster
+262,Munster
+263,Leinster
+264,Leinster
+265,Leinster
+266,Highlands
+267,Highlands
+268,Highlands
+1724,Highlands
+271,Lowlands
+269,Lowlands
+270,Lowlands
+272,Lowlands
+273,Wales
+274,Wales
+275,Wales
+276,Wales
+277,North West England
+278,North West England
+279,North West England
+285,North West England
+304,North West England
+280,North East England
+281,North East England
+282,North East England
+283,North East England
+284,Midlands
+286,Midlands
+287,Midlands
+288,Midlands
+289,Midlands
+290,Midlands
+291,Eastern Counties
+292,Eastern Counties
+293,Eastern Counties
+295,Eastern Counties
+296,South West England
+299,South West England
+297,South West England
+298,South West England
+419,South West England
+300,South East England
+294,South East England
+301,South East England
+302,South East England
+303,South East England
+251,Iceland & Greenland
+252,Iceland & Greenland
+253,Iceland & Greenland
+2636,Iceland & Greenland
+308,Nordnoge
+305,Nordnoge
+306,Nordnoge
+307,Nordnoge
+309,Vestlandet
+311,Vestlandet
+310,Vestlandet
+312,Vestlandet
+313,Ostlandet
+316,Ostlandet
+314,Ostlandet
+315,Ostlandet
+318,Norrland
+317,Norrland
+319,Norrland
+320,Norrland
+321,Norrland
+322,Stockholm
+324,Stockholm
+326,Stockholm
+325,Stockholm
+329,Goteburg
+328,Goteburg
+327,Goteburg
+323,Goteburg
+330,Goteburg
+334,Malmo
+332,Malmo
+331,Malmo
+333,Malmo
+335,Malmo
+336,Northern Finland
+337,Northern Finland
+338,Northern Finland
+342,Northern Finland
+343,Helsinki
+344,Helsinki
+341,Helsinki
+340,Helsinki
+345,Turku
+346,Turku
+347,Turku
+348,Turku
+367,Jylland
+366,Jylland
+368,Jylland
+2557,Jylland
+369,Holstein
+530,Holstein
+529,Holstein
+533,Holstein
+370,Schleswig
+371,Schleswig
+372,Sjaelland
+373,Sjaelland
+374,Sjaelland
+375,Holland
+376,Holland
+377,Holland
+382,Holland
+379,Zeeland
+378,Zeeland
+380,Zeeland
+381,Zeeland
+385,Friesland
+383,Friesland
+384,Friesland
+386,Friesland
+387,Flanders
+388,Flanders
+389,Flanders
+390,Flanders
+391,Flanders
+394,Wallonia
+392,Wallonia
+393,Wallonia
+395,Wallonia
+398,Wallonia
+403,Picardie - used to be { 403 405 406 408 402 2570 }
+402,Picardie - used to be { 403 405 406 408 402 2570 }
+2570,Picardie - used to be { 403 405 406 408 402 2570 }
+408,Champagne
+405,Champagne
+406,Champagne
+407,Champagne
+432,Champagne
+399,Nord-Pas-De-Calais/Artois
+400,Nord-Pas-De-Calais/Artois
+401,Nord-Pas-De-Calais/Artois
+404,Nord-Pas-De-Calais/Artois
+411,Ardennes
+413,Ardennes
+414,Ardennes
+412,Alsace-Lorraine
+409,Alsace-Lorraine
+410,Alsace-Lorraine
+418,Normandie
+415,Normandie
+416,Normandie
+417,Normandie
+420,Bretagne
+421,Bretagne
+422,Bretagne
+424,Bretagne
+423,Bretagne
+425,Ile de France
+426,Ile de France
+427,Ile de France
+428,Bourgogne
+429,Bourgogne
+431,Bourgogne
+430,Bourgogne
+433,Bourgogne
+435,Loire
+434,Loire
+437,Loire
+438,Region Centre
+436,Region Centre
+439,Region Centre
+440,Region Centre
+441,Region Centre
+442,Poitou
+444,Poitou
+443,Poitou
+445,Limousin
+446,Limousin
+447,Limousin
+448,Auvergne
+449,Auvergne
+450,Auvergne
+451,Rhone
+452,Rhone
+453,Rhone
+454,Rhone
+455,Le Midi
+457,Le Midi
+456,Le Midi
+458,Aquitaine
+459,Aquitaine
+460,Aquitaine
+461,Languedoc
+462,Languedoc
+463,Languedoc
+464,Languedoc
+465,Savoie
+466,Savoie
+472,Savoie
+467,Provence
+468,Provence
+469,Provence
+470,Provence
+471,Provence
+474,Galicia
+476,Galicia
+477,León-Castilla
+479,León-Castilla
+480,León-Castilla
+481,León-Castilla
+482,León-Castilla
+483,León-Castilla
+475,León-Castilla
+478,León-Castilla
+484,Extremadura
+485,Extremadura
+486,Extremadura
+487,Castilla la Nueva
+488,Castilla la Nueva
+489,Castilla la Nueva
+490,Castilla la Nueva
+491,Castilla la Nueva
+492,Vasconia-Aragón
+493,Vasconia-Aragón
+494,Vasconia-Aragón
+495,Vasconia-Aragón
+496,Vasconia-Aragón
+497,Vasconia-Aragón
+498,Catalonia
+499,Catalonia
+500,Catalonia
+501,Catalonia
+502,Catalonia
+503,Valencia
+504,Valencia
+505,Valencia
+506,Valencia
+507,Valencia
+508,Valencia
+512,Andalucia
+509,Andalucia
+510,Andalucia
+511,Andalucia
+517,Andalucia
+513,Granada
+514,Granada
+515,Granada
+516,Granada
+518,Douro
+519,Douro
+520,Douro
+521,Estremadura
+522,Estremadura
+523,Estremadura
+524,Estremadura
+525,Alentejo
+526,Alentejo
+527,Alentejo
+2134,Macaronesia
+2135,Macaronesia
+2136,Macaronesia
+528,Lower Elbe
+531,Lower Elbe
+532,Lower Elbe
+535,Lower Elbe
+534,Hannover
+536,Hannover
+537,Hannover
+585,Hannover
+539,East Friesland
+540,East Friesland
+543,East Friesland
+542,East Friesland
+541,East Friesland
+1743,East Friesland
+544,Mecklenburg
+545,Mecklenburg
+547,Mecklenburg
+548,Mecklenburg
+546,Pomerania
+679,Pomerania
+680,Pomerania
+692,Pomerania
+681,Pomerania
+549,Brandenburg
+550,Brandenburg
+551,Brandenburg
+552,Brandenburg
+553,Magdeburg
+555,Magdeburg
+556,Magdeburg
+557,Magdeburg
+554,Thuringia
+561,Thuringia
+562,Thuringia
+563,Thuringia
+558,Saxony
+559,Saxony
+560,Saxony
+687,Saxony
+564,Hessen
+565,Hessen
+566,Hessen
+567,Hessen
+568,Hessen
+2560,Hessen
+570,Palatinate
+573,Palatinate
+574,Palatinate
+571,Palatinate
+575,Rheinland
+576,Rheinland
+577,Rheinland
+572,Rheinland
+397,Rheinland
+396,Rheinland
+578,Eastern Rheinland
+579,Eastern Rheinland
+2561,Eastern Rheinland
+583,Eastern Rheinland
+580,Westfalen
+581,Westfalen
+582,Westfalen
+584,Westfalen
+538,Westfalen
+586,Baden
+587,Baden
+588,Baden
+569,Baden
+589,Wurttemburg
+590,Wurttemburg
+591,Wurttemburg
+593,Wurttemburg
+594,Wurttemburg
+595,Franconia
+596,Franconia
+597,Franconia
+598,Franconia
+599,Upper Bavaria
+592,Upper Bavaria
+600,Upper Bavaria
+601,Upper Bavaria
+602,Upper Bavaria
+603,Switzerland
+606,Switzerland
+611,Switzerland
+2568,Switzerland
+605,Switzerland
+604,Switzerland
+607,Switzerland
+608,Switzerland
+609,Switzerland
+682,Silesia
+683,Silesia
+684,Silesia
+685,Silesia
+690,Westpreußen
+691,Westpreußen
+694,Westpreußen
+693,Westpreußen
+695,Ostpreußen
+696,Ostpreußen
+697,Ostpreußen
+698,Ostpreußen
+701,Posen
+699,Posen
+700,Posen
+612,Tirol
+613,Tirol
+614,Tirol
+615,Tirol
+616,Kärnten-Steiermark
+617,Kärnten-Steiermark
+618,Kärnten-Steiermark
+619,Österreich
+620,Österreich
+621,Österreich
+622,Österreich
+624,Österreich
+639,Transdanubia
+623,Transdanubia
+640,Transdanubia
+642,Transdanubia
+643,Transdanubia
+644,Transdanubia
+625,Bohemia
+626,Bohemia
+631,Bohemia
+627,Moravia/Sudetes
+628,Moravia/Sudetes
+629,Moravia/Sudetes
+630,Moravia/Sudetes
+688,Lower Silesia
+632,Lower Silesia
+689,Lower Silesia
+2584,Lower Silesia
+633,Slovakia
+634,Slovakia
+635,Slovakia
+636,Slovakia
+637,Slovakia
+638,Slovakia
+950,Slovakia
+641,Central Hungary
+645,Central Hungary
+646,Central Hungary
+648,Central Hungary
+649,Central Hungary
+650,Central Hungary
+652,Banat
+653,Banat
+654,Western Transylvania
+655,Western Transylvania
+656,Western Transylvania
+661,Western Transylvania
+651,Western Transylvania
+647,Western Transylvania
+657,Eastern Transylvania
+659,Eastern Transylvania
+660,Eastern Transylvania
+2533,Eastern Transylvania
+703,Galicia-Lodomeria
+704,Galicia-Lodomeria
+705,Galicia-Lodomeria
+714,Galicia-Lodomeria
+702,East Galicia
+951,East Galicia
+952,East Galicia
+953,East Galicia
+715,West Galicia
+711,West Galicia
+713,West Galicia
+716,West Galicia
+726,Lombardia
+727,Lombardia
+728,Lombardia
+2669,Lombardia
+736,Friuli
+737,Friuli
+729,Venetia
+730,Venetia
+731,Venetia
+732,Venetia
+733,Venetia
+8,Venetia
+734,South Tirol
+735,South Tirol
+769,Istria
+770,Istria
+778,Istria
+767,Slovenia
+768,Slovenia
+771,Croatia
+772,Croatia
+773,Croatia
+775,Croatia
+776,Croatia
+779,Slavonia
+793,Slavonia
+777,Slavonia
+780,Dalmatia
+781,Dalmatia
+782,Dalmatia
+774,Dalmatia
+2538,Vojvodina
+791,Vojvodina
+792,Vojvodina
+720,Piemonte
+721,Piemonte
+722,Piemonte
+723,Piemonte
+724,Piemonte
+725,Piemonte
+739,Emilia
+738,Emilia
+740,Emilia
+744,Tuscany
+745,Tuscany
+746,Tuscany
+747,Tuscany
+748,Tuscany
+1981,Tuscany
+741,Emilia-Romagna
+742,Emilia-Romagna
+743,Emilia-Romagna
+739,Emilia-Romagna
+738,Emilia-Romagna
+740,Emilia-Romagna
+749,Lazio
+752,Lazio
+750,Lazio
+751,Lazio
+756,Puglia
+758,Puglia
+10,Puglia
+753,Puglia
+757,Puglia
+754,Campania
+755,Campania
+759,Campania
+760,Campania
+761,Campania
+2567,Campania
+763,Sicily
+762,Sicily
+764,Sicily
+854,Sicily
+765,Sardinia & Corscia/Thyrrenian Islands
+766,Sardinia & Corscia/Thyrrenian Islands
+473,Sardinia & Corscia/Thyrrenian Islands
+664,Wallachia
+665,Wallachia
+666,Wallachia
+668,Wallachia
+667,Wallachia
+669,Wallachia
+673,Moldavia
+672,Moldavia
+670,Moldavia
+671,Moldavia
+663,Moldavia
+662,Moldavia
+674,Dobrudja
+675,Dobrudja
+818,Dobrudja
+676,Bessarabia
+677,Bessarabia
+678,Bessarabia
+783,Bosnia
+787,Bosnia
+789,Bosnia
+788,Bosnia
+786,Bosnia
+785,Bosnia
+784,Bosnia
+794,Northern Serbia
+797,Northern Serbia
+795,Northern Serbia
+796,Northern Serbia
+2583,Montenegro
+2569,Montenegro
+2577,Montenegro
+800,Montenegro
+2582,Montenegro
+803,Southern Serbia
+804,Southern Serbia
+798,Southern Serbia
+802,Southern Serbia
+799,Southern Serbia
+805,Southern Macedonia
+819,Southern Macedonia
+820,Southern Macedonia
+821,Southern Macedonia
+822,Southern Macedonia
+806,Northern Macedonia
+807,Northern Macedonia
+1780,Northern Macedonia
+815,Eastern Rumelia
+817,Eastern Rumelia
+808,Eastern Rumelia
+816,Eastern Rumelia
+809,Bulgaria
+810,Bulgaria
+811,Bulgaria
+812,Bulgaria
+813,Bulgaria
+814,Bulgaria
+823,Eastern Macedonia
+829,Eastern Macedonia
+830,Eastern Macedonia
+834,Peloponnese
+842,Peloponnese
+839,Peloponnese
+840,Peloponnese
+841,Peloponnese
+832,Thessalia
+831,Thessalia
+833,Thessalia
+825,Thessalia
+824,Thessalia
+826,Thessalia
+837,Attica - Central Greece
+836,Attica - Central Greece
+835,Attica - Central Greece
+838,Attica - Central Greece
+845,Attica - Central Greece
+827,Attica - Central Greece
+848,Aegean Islands
+843,Aegean Islands
+844,Aegean Islands
+846,Aegean Islands
+847,Aegean Islands
+849,Albania
+853,Albania
+852,Albania
+851,Albania
+850,Albania
+855,Cyprus
+856,Cyprus
+857,Cyprus
+860,Thrace
+828,Thrace
+858,Thrace
+859,Thrace
+863,Hudavendigar
+861,Hudavendigar
+862,Hudavendigar
+864,Hudavendigar
+865,Hudavendigar
+867,Hudavendigar
+869,Aydin
+870,Aydin
+871,Aydin
+872,Aydin
+873,Konya
+874,Konya
+875,Konya
+866,Konya
+876,Ankara
+877,Ankara
+878,Ankara
+868,Ankara
+880,Kastamonu
+881,Kastamonu
+883,Kastamonu
+882,Trabizond
+884,Trabizond
+879,Trabizond
+888,Trabizond
+885,Kars
+886,Kars
+1096,Kars
+890,Van
+891,Van
+887,Van
+893,Diyarbakir
+889,Diyarbakir
+899,Diyarbakir
+892,Diyarbakir
+2414,Diyarbakir
+894,Adana
+896,Adana
+898,Adana
+900,Adana
+895,Adana
+897,Western Syria
+904,Western Syria
+905,Western Syria
+903,Western Syria
+902,Western Syria
+901,Eastern Syria
+1813,Eastern Syria
+906,Eastern Syria
+907,Eastern Syria
+908,Transjordan
+910,Transjordan
+911,Transjordan
+922,Transjordan
+909,Transjordan
+913,Lebanon
+915,Lebanon
+912,Lebanon
+914,Lebanon
+917,Palestine
+921,Palestine
+920,Palestine
+919,Palestine
+918,Palestine
+916,Palestine
+923,Mosul
+924,Mosul
+925,Mosul
+928,Mosul
+926,Baghdad
+931,Baghdad
+927,Baghdad
+923,Baghdad
+924,Baghdad
+925,Baghdad
+928,Baghdad
+935,Basra
+932,Basra
+933,Basra
+930,Basra
+934,Basra
+929,Basra
+1090,Georgia
+1093,Georgia
+1091,Georgia
+1092,Georgia
+1094,Georgia
+1095,Georgia
+1098,Armenia
+1099,Armenia
+1100,Armenia
+1101,Armenia
+1102,Azerbaijan
+1105,Azerbaijan
+1106,Azerbaijan
+1104,Azerbaijan
+1107,Azerbaijan
+1103,Azerbaijan
+1108,Tabriz
+1109,Tabriz
+1110,Tabriz
+1111,Tabriz
+1112,Tabriz
+1113,Mazandaran
+1114,Mazandaran
+1115,Mazandaran
+1121,Irakajemi
+1124,Irakajemi
+1125,Irakajemi
+1126,Irakajemi
+1123,Irakajemi
+1127,Isfahan
+1129,Isfahan
+1130,Isfahan
+1117,Luristan
+1118,Luristan
+1119,Luristan
+1128,Luristan
+1122,Luristan
+1120,Luristan
+1128,Lorestan
+1122,Lorestan
+1120,Lorestan
+1132,Khuzestan
+1131,Khuzestan
+1133,Khuzestan
+1135,Fars
+1137,Fars
+1138,Fars
+1141,Fars
+1136,Fars
+1071,Fars
+1134,Fars
+1142,Kerman
+1139,Kerman
+1140,Kerman
+1143,Kerman
+1145,Kerman
+1146,Kerman
+1144,Kerman
+1148,Khorasan
+1147,Khorasan
+1150,Khorasan
+1149,Khorasan
+1116,Khorasan
+1151,Hedjaz
+1152,Hedjaz
+1153,Hedjaz
+1154,Hedjaz
+1155,Hedjaz
+1160,Hail
+1156,Hail
+1158,Hail
+1157,Nejd
+1161,Nejd
+2586,Nejd
+1159,Nejd
+1162,Gullf States
+1165,Gullf States
+1167,Gullf States
+1168,Gullf States
+2664,Gullf States
+1164,Gullf States
+1163,Gullf States
+1166,Oman
+1169,Oman
+1170,Oman
+1171,Oman
+1172,Oman
+1174,Oman
+1412,Aden
+1173,Aden
+1175,Aden
+1176,Aden
+1177,Aden
+1178,Sanaa
+1179,Sanaa
+1180,Sanaa
+1189,Kirghizia
+1190,Kirghizia
+1201,Kirghizia
+1203,Kirghizia
+1207,Kirghizia
+1208,Kirghizia
+1191,Uzbekia
+1192,Uzbekia
+1195,Uzbekia
+1198,Uzbekia
+1199,Uzbekia
+1200,Uzbekia
+1202,Uzbekia
+29,Uzbekia
+1209,North Afghanistan - Former Pashtunistan
+1212,North Afghanistan - Former Pashtunistan
+1213,North Afghanistan - Former Pashtunistan
+1211,North Afghanistan - Former Pashtunistan
+1216,North Afghanistan - Former Pashtunistan
+1210,North Afghanistan - Former Pashtunistan
+1214,South Afghanistan - Former Kandahar
+1215,South Afghanistan - Former Kandahar
+1217,South Afghanistan - Former Kandahar
+2133,South Afghanistan - Former Kandahar
+349,Estonia
+350,Estonia
+351,Estonia
+352,Estonia
+353,Estonia
+354,Latvia
+355,Latvia
+356,Latvia
+357,Latvia
+358,Latvia
+359,Latvia
+360,Lithuania
+361,Lithuania
+362,Lithuania
+363,Lithuania
+364,Lithuania
+365,Lithuania
+339,Karelia
+984,Karelia
+995,Karelia
+988,Karelia
+2587,Karelia
+983,Karelia
+982,Karelia
+706,Masovia
+708,Masovia
+709,Masovia
+710,Masovia
+717,Masovia
+712,Masovia
+936,Brêst
+707,Brêst
+719,Brêst
+937,Brêst
+718,Minsk
+941,Minsk
+942,Minsk
+940,Pinsk
+939,Pinsk
+938,Pinsk
+947,Pinsk
+943,Smolensk
+999,Smolensk
+1000,Smolensk
+1007,Smolensk
+944,Orsha
+945,Orsha
+946,Orsha
+948,Orsha
+949,Orsha
+958,Kiev
+959,Kiev
+960,Kiev
+955,Volyn
+956,Volyn
+957,Volyn
+967,Crimea
+966,Crimea
+964,Crimea
+968,Transnistria
+969,Transnistria
+954,Transnistria
+976,Kherson-Zaporizhia
+973,Kherson-Zaporizhia
+975,Kherson-Zaporizhia
+965,Kherson-Zaporizhia
+972,Yekaterinoslav
+971,Yekaterinoslav
+970,Yekaterinoslav
+961,Yekaterinoslav
+977,Kursk
+1017,Kursk
+1018,Kursk
+1019,Kursk
+978,Kharkov
+962,Kharkov
+963,Kharkov
+980,Kharkov
+974,Kharkov
+979,Don Host Oblast
+1047,Don Host Oblast
+1046,Don Host Oblast
+1045,Don Host Oblast
+981,Arkhangelsk
+985,Arkhangelsk
+2588,Arkhangelsk
+990,Galich
+987,Galich
+1024,Galich
+991,Galich
+1023,Galich
+994,Ingria
+996,Ingria
+997,Ingria
+2580,Ingria
+998,Tver
+1001,Tver
+992,Tver
+993,Tver
+989,Tver
+1003,Novgorod
+1004,Novgorod
+1005,Novgorod
+1006,Novgorod
+1008,Moscow
+1011,Moscow
+1012,Moscow
+1013,Moscow
+1022,Moscow
+1009,Bryansk
+1010,Bryansk
+1014,Bryansk
+1015,Bryansk
+1016,Bryansk
+1020,Kazan
+1027,Kazan
+1028,Kazan
+1030,Kazan
+1032,Kazan
+1033,Kazan
+1026,Perm
+2689,Perm
+1029,Perm
+1031,Perm
+2700,Perm
+1037,Tartaria
+1038,Tartaria
+1025,Tartaria
+1021,Tartaria
+1041,Astrakhan
+1036,Astrakhan
+1040,Astrakhan
+1039,Astrakhan
+1048,Circassia
+1049,Circassia
+1050,Circassia
+1051,Circassia
+1056,Circassia
+1052,North Caucasia
+1053,North Caucasia
+1054,North Caucasia
+1055,North Caucasia
+1057,North Caucasia
+1060,Samara
+1044,Samara
+1042,Samara
+1034,Samara
+1043,Samara
+1035,Samara
+1064,Tobolsk
+1066,Tobolsk
+1061,Tobolsk
+2682,Ob - Yamalia
+2613,Ob - Yamalia
+2615,Ob - Yamalia
+2659,Ob - Yamalia
+2684,Ob - Yamalia
+1069,West Yakutsk
+2650,West Yakutsk
+2651,West Yakutsk
+2649,West Yakutsk
+2673,West Yakutsk
+2652,West Yakutsk
+2653,West Yakutsk
+1077,Upper Yeniseysk - Krasnoyarsk
+1469,Upper Yeniseysk - Krasnoyarsk
+2691,Upper Yeniseysk - Krasnoyarsk
+2701,Upper Yeniseysk - Krasnoyarsk
+2674,Upper Yeniseysk - Krasnoyarsk
+2648,Yakutsk
+2696,Yakutsk
+2644,Yakutsk
+1081,Amur Region - Khingan
+2697,Amur Region - Khingan
+1080,Amur Region - Khingan
+1074,Kamchatka
+2633,Kamchatka
+2616,Kamchatka
+2663,Kamchatka
+1075,Irkutsk
+1076,Irkutsk
+2677,Irkutsk
+2695,Irkutsk
+2645,Irkutsk
+2676,Irkutsk
+1078,Trans-Baikal
+1079,Trans-Baikal
+2670,Trans-Baikal
+2671,Trans-Baikal
+1082,Guanwai - Outer Manchuria
+1083,Guanwai - Outer Manchuria
+1085,Guanwai - Outer Manchuria
+1084,Guanwai - Outer Manchuria
+2617,Guanwai - Outer Manchuria
+1086,Sakhalin
+1087,Sakhalin
+1088,Sakhalin
+1089,Sakhalin
+1182,Uralsk
+1183,Uralsk
+1194,Uralsk
+2610,Uralsk
+2702,Uralsk
+1181,Akmolinsk
+1184,Akmolinsk
+2612,Akmolinsk
+2611,Akmolinsk
+1185,Semireche - Zhetysu
+1186,Semireche - Zhetysu
+1187,Semireche - Zhetysu
+1188,Semireche - Zhetysu
+1197,Semireche - Zhetysu
+2606,Semireche - Zhetysu
+1193,Semireche - Zhetysu
+1196,Turkmenia
+1204,Turkmenia
+1205,Turkmenia
+1206,Turkmenia
+686,Turkmenia
+1063,Tomsk
+1067,Tomsk
+1068,Tomsk
+2698,Tomsk
+2683,Tomsk
+2686,Tomsk
+1070,Tomsk
+986,Nenetsia
+2699,Nenetsia
+2688,Nenetsia
+2687,Nenetsia
+2622,Coastal Chukotka
+2634,Coastal Chukotka
+2637,Coastal Chukotka
+2661,Coastal Chukotka
+2666,Coastal Chukotka
+2657,Lower Yeniseysk - Taymyria
+2680,Lower Yeniseysk - Taymyria
+2654,Lower Yeniseysk - Taymyria
+2694,Lower Yeniseysk - Taymyria
+2656,Lower Yeniseysk - Taymyria
+2655,Lower Yeniseysk - Taymyria
+2693,Lower Yeniseysk - Taymyria
+2692,Lower Yeniseysk - Taymyria
+2675,Lower Yeniseysk - Taymyria
+1072,Upper Okhotsk - Magadan
+2641,Upper Okhotsk - Magadan
+2618,Upper Okhotsk - Magadan
+2620,Upper Okhotsk - Magadan
+2638,Upper Okhotsk - Magadan
+2639,Upper Okhotsk - Magadan
+1073,Upper Okhotsk - Magadan
+2660,Upper Okhotsk - Magadan
+2646,North Siberia
+2690,North Siberia
+1065,North Siberia
+1062,North Siberia
+2668,North Yakutsk
+2643,North Yakutsk
+2665,North Yakutsk
+2667,North Yakutsk
+2672,North Yakutsk
+2621,North Yakutsk
+2619,North Yakutsk
+2642,North Yakutsk
+1058,Ural
+2685,Ural
+1059,Ural
+2614,Ural
+2658,Ural
+1221,Baluchistan
+1222,Baluchistan
+1220,Baluchistan
+1218,Baluchistan
+1219,Baluchistan
+1223,Baluchistan
+2640,Baluchistan
+1224,Kashmir
+1225,Kashmir
+1226,Kashmir
+1227,Punjab
+1228,Punjab
+1229,Punjab
+1231,Punjab
+1230,Punjab
+1232,Punjab
+1233,Punjab
+1234,Punjab
+1235,Punjab
+1288,Sindh
+1289,Sindh
+1290,Sindh
+1236,United Provinces
+1237,United Provinces
+1238,United Provinces
+1239,United Provinces
+1240,United Provinces
+1244,United Provinces
+1242,United Provinces
+1241,United Provinces
+1245,United Provinces
+1246,United Provinces
+1243,United Provinces
+1247,Bihar
+1248,Bihar
+1249,Bihar
+1250,Bihar
+1251,West Bengal
+1252,West Bengal
+1253,West Bengal
+1254,East Bengal
+1255,East Bengal
+1256,East Bengal
+1257,East Bengal
+1258,Assam
+1259,Assam
+1260,Assam
+2566,Assam
+1261,Orissa
+1262,Orissa
+1263,Orissa
+1275,Central India
+1276,Central India
+1270,Central India
+1271,Central India
+1272,Central India
+1273,Central India
+1274,Central India
+1277,Nagpur
+1280,Nagpur
+1281,Nagpur
+1278,Nagpur
+1282,Nagpur
+1264,Rajputana
+1265,Rajputana
+1266,Rajputana
+1267,Rajputana
+1268,Rajputana
+1269,Rajputana
+1283,Hyderabad
+1284,Hyderabad
+1285,Hyderabad
+1286,Hyderabad
+1287,Hyderabad
+1291,Gujarat
+1296,Gujarat
+1294,Gujarat
+1295,Gujarat
+1292,Gujarat
+1293,Gujarat
+1297,Bombay
+1298,Bombay
+1299,Bombay
+1300,Bombay
+1301,Bombay
+1303,Bombay
+1304,Madras
+1309,Madras
+1310,Madras
+1311,Madras
+1312,Madras
+2591,Madras
+1305,Circars
+1306,Circars
+1307,Circars
+1308,Circars
+1279,Circars
+1314,Mysore
+1313,Mysore
+1316,Mysore
+1315,Mysore
+1302,Mysore
+1317,Travancore
+1318,Travancore
+1319,Travancore
+1321,Ceylon
+1322,Ceylon
+1323,Ceylon
+1324,Ceylon
+1325,Ceylon
+2128,Ceylon
+1587,Himalaya
+1591,Himalaya
+1592,Himalaya
+1589,Himalaya
+1588,Himalaya
+1590,Himalaya
+1593,Himalaya
+1330,Pegu
+1331,Pegu
+1332,Pegu
+1345,Pegu
+1336,Pegu
+1337,Pegu
+1335,Former Shan States - Yadanabon - Mandalay
+1333,Former Shan States - Yadanabon - Mandalay
+1338,Former Shan States - Yadanabon - Mandalay
+1340,Former Shan States - Yadanabon - Mandalay
+1334,Kachin
+1339,Kachin
+1341,Kachin
+1342,Kachin
+1343,Tenasserim
+1344,Tenasserim
+1320,Tenasserim
+2125,Indian Ocean Territory
+2127,Indian Ocean Territory
+2126,Indian Ocean Territory
+2124,Indian Ocean Territory
+2123,Indian Ocean Territory
+1356,Laos
+1360,Laos
+1357,Laos
+1361,Laos
+1362,Laos
+1363,Laos
+1366,Cambodia
+1367,Cambodia
+1364,Cambodia
+1368,Cambodia
+1369,Tonkin
+1374,Tonkin
+1370,Tonkin
+1373,Tonkin
+1371,Tonkin
+1372,Tonkin
+1375,Annam
+1378,Annam
+1379,Annam
+1377,Annam
+1376,Annam
+1380,Cochinchina
+1382,Cochinchina
+1383,Cochinchina
+1381,Cochinchina
+1384,Southern Malaya
+1386,Southern Malaya
+1385,Southern Malaya
+1387,Southern Malaya
+1391,Northern Malaya
+1390,Northern Malaya
+1388,Northern Malaya
+1389,Northern Malaya
+2575,Northern Malaya
+1346,Ayutthaya
+1347,Ayutthaya
+1348,Ayutthaya
+1349,Ayutthaya
+2572,Ayutthaya
+1355,Ayutthaya
+1392,Patani
+1352,Patani
+1354,Patani
+1353,Patani
+1358,Isan
+1350,Isan
+1359,Isan
+1365,Isan
+1351,Isan
+1393,West Borneo
+1394,West Borneo
+1395,West Borneo
+1396,Sabah
+1397,Sabah
+1398,Sumatra
+1404,Sumatra
+1403,Sumatra
+1410,Sumatra
+1399,Sumatra
+1401,Siak
+1408,Siak
+1400,Siak
+1402,Siak
+1411,Siak
+1405,Aceh
+1406,Aceh
+1407,Aceh
+1409,Aceh
+1413,Western Java
+1414,Western Java
+1415,Western Java
+1416,Western Java
+1417,Western Java
+2244,Western Java
+1418,Eastern Java
+1419,Eastern Java
+1420,Eastern Java
+1421,Eastern Java
+1423,East Borneo
+1429,East Borneo
+1422,East Borneo
+1424,East Borneo
+1425,East Borneo
+1426,South Borneo
+1427,South Borneo
+1428,South Borneo
+2576,South Borneo
+1438,Sunda Islands
+1442,Sunda Islands
+1440,Sunda Islands
+1441,Sunda Islands
+1444,Sunda Islands
+1439,Sunda Islands
+1446,Timor
+1445,Timor
+1443,Timor
+2647,Timor
+1447,Moluccas
+1450,Moluccas
+1449,Moluccas
+1451,Moluccas
+1448,Moluccas
+1430,Celebes
+1431,Celebes
+1432,Celebes
+1435,Celebes
+1434,Celebes
+1433,Celebes
+1436,Celebes
+1437,Celebes
+1452,Western New Guinea
+1453,Western New Guinea
+1454,Western New Guinea
+1560,Western New Guinea
+1455,Luzón
+1456,Luzón
+1457,Luzón
+1458,Luzón
+1459,Visayas
+1460,Visayas
+1461,Visayas
+2565,Visayas
+1463,Mindanao
+1462,Mindanao
+1464,Mindanao
+1465,Urga
+1466,Urga
+1467,Urga
+2207,Urga
+1468,Uliastai
+2678,Uliastai
+2679,Uliastai
+2608,Uliastai
+1470,South Anhui
+1471,South Anhui
+1473,South Anhui
+1475,South Anhui
+1477,North Anhui
+1474,North Anhui
+1476,North Anhui
+1472,North Anhui
+1478,North Anhui
+1552,Heilongjiang - North Manchuria
+1002,Heilongjiang - North Manchuria
+1553,Heilongjiang - North Manchuria
+1533,Heilongjiang - North Manchuria
+1482,Fujian
+1483,Fujian
+1484,Fujian
+1486,Fujian
+1487,Fujian
+2681,Formosa
+1485,Formosa
+2562,Formosa
+2406,Formosa
+1490,Gansu
+1489,Gansu
+1491,Gansu
+1492,Gansu
+1493,East Canton
+1496,East Canton
+1498,East Canton
+1494,East Canton
+1497,East Canton
+1500,East Canton
+1495,West Canton
+1501,West Canton
+2632,West Canton
+1502,Guangxi
+1503,Guangxi
+1504,Guangxi
+1499,Guangxi
+1505,Guizhou
+1506,Guizhou
+1507,Guizhou
+1508,East Henan
+1509,East Henan
+1512,East Henan
+1514,East Henan
+1510,West Henan
+1511,West Henan
+1513,West Henan
+1515,West Henan
+1519,West Hubei
+1520,West Hubei
+1521,West Hubei
+1523,West Hubei
+1522,East Hubei
+1516,East Hubei
+1517,East Hubei
+1518,East Hubei
+1524,West Hunan
+1525,West Hunan
+1528,West Hunan
+1529,West Hunan
+1526,East Hunan
+1527,East Hunan
+1530,East Hunan
+1532,Inner Mongolia
+1534,Inner Mongolia
+1535,Inner Mongolia
+1488,Inner Mongolia
+2221,South Jiangsu
+1538,South Jiangsu
+1537,South Jiangsu
+1539,South Jiangsu
+1544,South Jiangsu
+1540,North Jiangsu
+1541,North Jiangsu
+1543,North Jiangsu
+1536,North Jiangsu
+1542,North Jiangsu
+1545,North Jiangxi
+1546,North Jiangxi
+1549,North Jiangxi
+1551,North Jiangxi
+1547,South Jiangxi
+1548,South Jiangxi
+1550,South Jiangxi
+1557,Kokonor/Qinghai
+1558,Kokonor/Qinghai
+1556,Kokonor/Qinghai
+1559,Shaanxi
+1561,Shaanxi
+1562,Shaanxi
+2062,Shaanxi
+1563,West Shandong
+1564,West Shandong
+1568,West Shandong
+1571,West Shandong
+1566,West Shandong
+1565,East Shandong
+1567,East Shandong
+1569,East Shandong
+1570,East Shandong
+1572,Shanxi
+1573,Shanxi
+1574,Shanxi
+1575,Shanxi
+1576,Shanxi
+1578,West Sichuan
+1580,West Sichuan
+1582,West Sichuan
+1584,West Sichuan
+1585,West Sichuan
+1586,West Sichuan
+1579,East Sichuan
+1577,East Sichuan
+1581,East Sichuan
+1583,East Sichuan
+1594,Kashgar
+1597,Kashgar
+1598,Kashgar
+2607,Kashgar
+1600,Urumqui
+1595,Urumqui
+1596,Urumqui
+1599,Urumqui
+1601,Yunnan
+1602,Yunnan
+1603,Yunnan
+1604,North Zhejiang
+1605,North Zhejiang
+1606,North Zhejiang
+1608,North Zhejiang
+1609,North Zhejiang
+1610,South Zhejiang
+1607,South Zhejiang
+1611,South Zhejiang
+1612,Baoding
+1614,Baoding
+1615,Baoding
+1618,Baoding
+1616,Peking
+1613,Peking
+1617,Peking
+1619,Pyongyang
+1620,Pyongyang
+1623,Pyongyang
+1621,Pyongyang
+1622,Pyongyang
+1624,Seoul
+1630,Seoul
+1631,Seoul
+1636,Seoul
+1628,Seoul
+1627,Sariwon
+1626,Sariwon
+1625,Sariwon
+1629,Sariwon
+1635,Busan
+1633,Busan
+1632,Busan
+1634,Busan
+1637,Busan
+1643,Ezo - Hokkaido
+1642,Ezo - Hokkaido
+1644,Ezo - Hokkaido
+1640,Chugoku
+1638,Chugoku
+1641,Chugoku
+1639,Chugoku
+1649,Kanto
+1650,Kanto
+1652,Kanto
+1651,Kanto
+1653,Kanto
+1674,Kanto
+1678,Bonin Islands
+1679,Bonin Islands
+1654,Bonin Islands
+2525,Bonin Islands
+1657,Kansai
+1656,Kansai
+1655,Kansai
+1658,Kansai
+1659,Kansai
+1662,Kyushu
+1661,Kyushu
+1664,Kyushu
+1663,Kyushu
+1660,Kyushu
+2589,Kyushu
+1665,Shikoku
+1666,Shikoku
+1667,Shikoku
+1668,Tohoku
+1673,Tohoku
+1670,Tohoku
+1672,Tohoku
+1671,Tohoku
+1669,Tohoku
+1646,Chubu
+1645,Chubu
+1675,Chubu
+1647,Chubu
+1648,Chubu
+1676,Chubu
+1677,Chubu
+12,Chubu
+1696,Western Sahara
+1773,Western Sahara
+1774,Western Sahara
+1690,Morocco
+1693,Morocco
+1691,Morocco
+2563,Morocco
+1692,Morocco
+1685,Fez
+1681,Fez
+1682,Fez
+1680,Fez
+1686,al Rif
+1688,al Rif
+1689,al Rif
+1687,al Rif
+2590,al Rif
+1683,Taza
+1684,Taza
+1697,Taza
+1694,Agadir
+1699,Agadir
+1698,Agadir
+1695,Agadir
+1700,Algiers
+1701,Algiers
+1709,Algiers
+1704,Oran
+1705,Oran
+1706,Oran
+1707,Oran
+1703,Oran
+1708,Constantine
+1710,Constantine
+1702,Constantine
+1713,North Central Sahara
+1715,North Central Sahara
+1711,North Central Sahara
+1712,North Central Sahara
+1714,West Sahara / Saoura
+1716,West Sahara / Saoura
+1717,West Sahara / Saoura
+1720,West Sahara / Saoura
+1720,Sahara
+1718,Sahara
+1719,Sahara
+1721,Sahara
+1722,Sahara
+1716,Sahara
+1717,Sahara
+1725,Tunisia
+1726,Tunisia
+1727,Tunisia
+1728,Tunisia
+1729,Tunisia
+1730,Tunisia
+1731,Tripolitania
+1733,Tripolitania
+1734,Tripolitania
+1732,Tripolitania
+1744,Tripolitania
+1740,Tripolitania
+1741,Tripolitania
+1742,Tripolitania
+1735,Cyrenaica
+1736,Cyrenaica
+1737,Cyrenaica
+1738,Cyrenaica
+2585,Cyrenaica
+1740,Fezzan
+1741,Fezzan
+1742,Fezzan
+1743,Fezzan
+1745,Cairo
+1747,Cairo
+1750,Cairo
+1748,Cairo
+1749,Cairo
+1751,Cairo
+1746,Cairo
+1751,Alexandria
+1746,Alexandria
+1752,Alexandria
+1753,Alexandria
+1755,Sinai
+1756,Sinai
+1757,Sinai
+1752,Western Desert
+1753,Western Desert
+1759,Western Desert
+1758,Western Desert
+1761,Western Desert
+1760,Western Desert
+1754,Western Desert
+1765,Middle Egypt
+1763,Middle Egypt
+1762,Middle Egypt
+2559,Middle Egypt
+1764,Middle Egypt
+1772,Middle Egypt
+1769,Upper Egypt
+1771,Upper Egypt
+1768,Upper Egypt
+1770,Upper Egypt
+1767,Upper Egypt
+1766,Upper Egypt
+1808,Outer Hausaland - South Niger
+1809,Outer Hausaland - South Niger
+1810,Outer Hausaland - South Niger
+1811,Outer Hausaland - South Niger
+1815,Outer Hausaland - South Niger
+1816,Outer Hausaland - South Niger
+1812,Niger
+1814,Niger
+1817,Niger
+1818,Waddai
+1819,Waddai
+1820,Waddai
+1822,Waddai
+1823,Waddai
+1821,Chad
+1824,Chad
+1825,Chad
+1826,Chad
+1827,Sudan
+1829,Sudan
+1828,Sudan
+1830,Sudan
+1831,Sudan
+1834,Dongola
+1836,Dongola
+1833,Dongola
+1835,Dongola
+1837,Dongola
+2564,Dongola
+1806,Dongola
+1839,Kordofan
+1838,Kordofan
+1840,Kordofan
+1739,Kordofan
+1842,Kordofan
+1841,Kordofan
+1842,Darfur
+1841,Darfur
+1843,Darfur
+1844,Sudd
+1845,Sudd
+1846,Sudd
+1847,Sudd
+1832,Sudd
+1843,Sudd
+1852,Begemder
+1854,Begemder
+1855,Begemder
+1853,Tigray
+1856,Tigray
+1857,Tigray
+1858,Tigray
+1859,Shewa
+1860,Shewa
+1861,Shewa
+1862,Shewa
+1863,Shewa
+1865,Shewa
+1866,Hararghe
+1867,Hararghe
+1864,Hararghe
+1848,Eritrea
+1849,Eritrea
+1850,Eritrea
+1851,Eritrea
+1868,South Somaliland
+1869,South Somaliland
+1870,South Somaliland
+1871,South Somaliland
+1872,South Somaliland
+1873,North Somaliland
+1874,North Somaliland
+1875,North Somaliland
+2024,Kenya
+2030,Kenya
+2032,Kenya
+2027,Kenya
+2029,Kenya
+2033,Kenya
+2026,Rift Valley
+2025,Rift Valley
+2028,Rift Valley
+2031,Rift Valley
+2036,Zanzibar
+2048,Zanzibar
+2045,Zanzibar
+2037,Zanzibar
+2047,Zanzibar
+2039,Lindi
+2040,Lindi
+2041,Lindi
+2038,Lindi
+2044,Tanganyika
+2043,Tanganyika
+2046,Tanganyika
+2042,Tanganyika
+1775,Mauritania
+1776,Mauritania
+1777,Mauritania
+1778,Mauritania
+1779,Mauritania
+1781,Mauritania
+1782,Mauritania
+1780,Inner Mauritania
+1781,Inner Mauritania
+1782,Inner Mauritania
+1783,Senegal
+1784,Senegal
+1786,Senegal
+1787,Senegal
+1789,Senegal
+1790,Senegal
+2573,Senegal
+1785,Gambia - South Senegal
+1788,Gambia - South Senegal
+1791,Gambia - South Senegal
+1792,Gambia - South Senegal
+1793,Gambia - South Senegal
+1794,Eastern Mali
+1799,Eastern Mali
+1800,Eastern Mali
+1802,Eastern Mali
+1804,Eastern Mali
+1798,Western Mali
+1795,Western Mali
+1796,Western Mali
+1797,Western Mali
+1801,Western Mali
+1803,Timbuktu
+1805,Timbuktu
+1807,Timbuktu
+2609,Timbuktu
+1879,Upper Guinea - Now just Guinea
+1880,Upper Guinea - Now just Guinea
+1881,Upper Guinea - Now just Guinea
+1882,Upper Guinea - Now just Guinea
+1883,Upper Guinea - Now just Guinea
+1884,Sierra Leone
+1885,Sierra Leone
+1886,Sierra Leone
+1876,Lower Guinea - Now Guinea-Bissau
+1877,Lower Guinea - Now Guinea-Bissau
+1878,Lower Guinea - Now Guinea-Bissau
+1887,Liberia
+1888,Liberia
+1889,Liberia
+1890,Liberia
+1891,Liberia
+1892,Ivory Coast - East Ivory Coast
+1894,Ivory Coast - East Ivory Coast
+1897,Ivory Coast - East Ivory Coast
+1898,Ivory Coast - East Ivory Coast
+1899,Ivory Coast - East Ivory Coast
+1893,Windward Coast - West Ivory Coast
+1895,Windward Coast - West Ivory Coast
+1896,Windward Coast - West Ivory Coast
+1900,Windward Coast - West Ivory Coast
+1901,Houet
+1902,Houet
+1903,Houet
+1904,Houet
+1905,Houet
+1906,Houet
+1907,Gold Coast - South Ghana
+1908,Gold Coast - South Ghana
+1909,Gold Coast - South Ghana
+1910,Gold Coast - South Ghana
+1912,Ghana - North Ghana
+1911,Ghana - North Ghana
+1913,Ghana - North Ghana
+1915,Volta
+1916,Volta
+1914,Togo
+1917,Togo
+1918,Togo
+1919,Dahomey
+1920,Dahomey
+1921,Dahomey
+1922,Dahomey
+1923,Yoruba States - West Nigeria Coast
+1924,Yoruba States - West Nigeria Coast
+1925,Yoruba States - West Nigeria Coast
+1926,Yoruba States - West Nigeria Coast
+1927,Yoruba States - West Nigeria Coast
+1938,Hausaland - West Central Nigeria
+1939,Hausaland - West Central Nigeria
+1940,Hausaland - West Central Nigeria
+1941,Hausaland - West Central Nigeria
+1946,Hausaland - West Central Nigeria
+1948,Hausaland - West Central Nigeria
+1928,Benin - Central Nigeria Coast
+1929,Benin - Central Nigeria Coast
+1930,Benin - Central Nigeria Coast
+1931,Benin - Central Nigeria Coast
+1932,Benin - Central Nigeria Coast
+1933,Biafra - East Nigeria Coast
+1934,Biafra - East Nigeria Coast
+1935,Biafra - East Nigeria Coast
+1936,Biafra - East Nigeria Coast
+1945,Kano - North Nigeria
+1947,Kano - North Nigeria
+1949,Kano - North Nigeria
+1952,Kano - North Nigeria
+1951,Kano - North Nigeria
+1953,Kano - North Nigeria
+1937,Tukari - West Central Nigeria
+1942,Tukari - West Central Nigeria
+1943,Tukari - West Central Nigeria
+1944,Tukari - West Central Nigeria
+1950,Tukari - West Central Nigeria
+1955,Equatorial Guinea
+1954,Equatorial Guinea
+1973,Equatorial Guinea
+1956,Cameroon
+1957,Cameroon
+1958,Cameroon
+1959,Cameroon
+1962,Cameroon
+1963,Adamawa
+1964,Adamawa
+1960,Adamawa
+1961,Adamawa
+1965,Ubangi-Shari
+1966,Ubangi-Shari
+1967,Ubangi-Shari
+1968,Ubangi-Shari
+1970,Ubangi-Shari
+1971,Ubangi-Shari
+1969,Ubangi-Shari
+1972,Gabon
+1974,Gabon
+1975,Gabon
+1976,Gabon
+1982,Bas-Congo/Lower Congo
+1983,Bas-Congo/Lower Congo
+1985,Bas-Congo/Lower Congo
+2000,Bas-Congo/Lower Congo
+1977,Congo
+1978,Congo
+1980,Congo
+2624,Congo
+1984,Kasai
+1986,Kasai
+1994,Kasai
+1992,Kasai
+1993,Kasai
+1995,Kasai
+1987,Katanga
+1988,Katanga
+1989,Katanga
+1992,Equateur
+1993,Equateur
+1995,Equateur
+1996,Congo Orientale
+1997,Congo Orientale
+1998,Congo Orientale
+1990,Kivu
+1991,Kivu
+1996,Kivu
+1997,Kivu
+1998,Kivu
+790,Zambia
+2012,Zambia
+2013,Zambia
+2014,Zambia
+2015,Zambia
+2016,Kazembe
+2017,Kazembe
+2018,Kazembe
+2019,Uganda
+2020,Uganda
+2021,Uganda
+2022,Uganda
+2023,Uganda
+2034,Ruanda-Urundi
+2035,Ruanda-Urundi
+1999,North Angola
+2001,North Angola
+2002,North Angola
+2009,North Angola
+2003,South Angola
+2004,South Angola
+2005,South Angola
+2008,South Angola
+2006,East Angola
+2007,East Angola
+2010,East Angola
+2011,East Angola
+2049,Lourenço Marques - Gaza - South Mozambique
+2050,Lourenço Marques - Gaza - South Mozambique
+2051,Lourenço Marques - Gaza - South Mozambique
+2059,Zambezia - Noth Central Mozambique
+2065,Zambezia - Noth Central Mozambique
+2054,Zambezia - Noth Central Mozambique
+2056,Zambezia - Noth Central Mozambique
+2057,Tete - Now Sofala - South Central Mozambique
+2052,Tete - Now Sofala - South Central Mozambique
+2058,Tete - Now Sofala - South Central Mozambique
+2053,Tete - Now Sofala - South Central Mozambique
+2055,Tete - Now Sofala - South Central Mozambique
+2060,Moçambique
+2061,Moçambique
+2063,Moçambique
+2064,Moçambique
+2581,Moçambique
+2067,Nyasaland
+2066,Nyasaland
+2068,Mashonaland
+2070,Mashonaland
+2635,Mashonaland
+2071,Matabeleland - Rozwi until matabele moves there
+2072,Matabeleland - Rozwi until matabele moves there
+2069,Matabeleland - Rozwi until matabele moves there
+2073,Matabeleland - Rozwi until matabele moves there
+2074,Bechuanaland
+2075,Bechuanaland
+2076,Bechuanaland
+2077,Bechuanaland
+2574,Bechuanaland
+2078,Hereroland
+2079,Hereroland
+2080,Hereroland
+2081,Hereroland
+2082,Hereroland
+2083,Namaqualand
+2084,Namaqualand
+2085,Namaqualand
+2086,Namaqualand
+2087,Cape Colony
+2090,Cape Colony
+2089,Cape Colony
+2091,Cape Colony
+2092,Cape Colony
+2558,Northern Cape
+2093,Northern Cape
+2088,Northern Cape
+2094,Northern Cape
+2095,Northern Cape
+2094,Kimberley - originally Griqualand
+2095,Kimberley - originally Griqualand
+2096,Eastern Cape
+2097,Eastern Cape
+2098,Eastern Cape
+2099,Eastern Cape
+2100,Eastern Cape
+2101,Vrystaat - originally Basutoland
+2103,Vrystaat - originally Basutoland
+2102,Vrystaat - originally Basutoland
+2104,Vrystaat - originally Basutoland
+2105,Transvaal - originally Tky-Gariep
+2108,Transvaal - originally Tky-Gariep
+2110,Transvaal - originally Tky-Gariep
+2109,Transvaal - originally Tky-Gariep
+2107,Transvaal - originally Tky-Gariep
+2106,Transvaal - originally Tky-Gariep
+2114,Transvaal - originally Tky-Gariep
+2113,Zululand - Natal
+2112,Zululand - Natal
+2111,Zululand - Natal
+2117,South Madagascar
+2122,South Madagascar
+2116,South Madagascar
+2118,South Madagascar
+2121,North Madagascar
+2115,North Madagascar
+2120,North Madagascar
+2119,North Madagascar
+2137,Sonora
+2138,Sonora
+2139,Sonora
+2140,Sonora
+2141,Sonora
+2142,Chihuahua
+2143,Chihuahua
+2144,Chihuahua
+2145,Chihuahua
+2149,Cohauila
+2150,Cohauila
+2151,Cohauila
+2147,Cohauila
+2152,Cohauila
+2155,Cohauila
+2153,Durango
+2154,Durango
+2156,Durango
+2157,Durango
+2158,Durango
+2160,Durango
+2159,Veracruz
+2162,Veracruz
+2163,Veracruz
+2164,Veracruz
+2183,Yucatan
+2185,Yucatan
+2184,Yucatan
+2161,Jalisco
+2168,Jalisco
+2166,Jalisco
+2169,Jalisco
+2167,Jalisco
+2170,Guerrero
+2171,Guerrero
+2177,Guerrero
+2178,Guerrero
+2179,Guerrero
+2180,Guerrero
+2172,Mexico
+2173,Mexico
+2174,Mexico
+2175,Mexico
+2176,Mexico
+2181,Chiapas
+2182,Chiapas
+2165,Chiapas
+2186,Guatemala
+2187,Guatemala
+2188,Guatemala
+2189,Guatemala
+2190,Guatemala
+2628,Guatemala
+2191,El Salvador
+2192,El Salvador
+2193,Honduras
+2194,Honduras
+2195,Honduras
+2196,Honduras
+2197,Nicaragua
+2198,Nicaragua
+2199,Nicaragua
+2200,Nicaragua
+2201,Costa Rica
+2202,Costa Rica
+2203,Costa Rica
+2204,Panama
+1723,Panama
+2205,Panama
+2206,Panama
+2208,Panama
+2209,Cuba
+2210,Cuba
+2211,Cuba
+44,Cuba
+2212,Cuba
+2213,Hispanola
+2214,Hispanola
+2215,Hispanola
+2216,Hispanola
+2217,Caribbean Islands
+203,Caribbean Islands
+2219,Caribbean Islands
+2218,Caribbean Islands
+2220,Caribbean Islands
+2224,West Indies
+2225,West Indies
+2226,West Indies
+2227,West Indies
+2230,West Indies
+2236,West Indies
+2223,West Indies
+2222,West Indies
+45,West Indies
+3246,West Indies
+2228,Lesser Antilles
+2229,Lesser Antilles
+2231,Lesser Antilles
+2232,Lesser Antilles
+2233,Lesser Antilles
+2237,Lesser Antilles
+2238,Lesser Antilles
+2409,Lesser Antilles
+2235,Lesser Antilles
+2234,Lesser Antilles
+2235,Leeward Antilles
+2234,Leeward Antilles
+2239,Guyana
+2240,Guyana
+2241,Guyana
+2242,Guyana
+2243,Guyana
+2245,Guyana
+2246,Guyana
+1979,Guyana
+2268,Zulia
+2270,Zulia
+2271,Zulia
+2272,Zulia
+2273,Zulia
+2264,Miranda
+2265,Miranda
+2266,Miranda
+2267,Miranda
+2274,Miranda
+2269,Bolivar
+2275,Bolivar
+2276,Bolivar
+2277,Bolivar
+2278,Bolivar
+2255,Antioquia
+2252,Antioquia
+2251,Antioquia
+2253,Antioquia
+2254,Antioquia
+2262,Guaviare
+2261,Guaviare
+2260,Guaviare
+2263,Guaviare
+2247,Cundinamarca
+2250,Cundinamarca
+2249,Cundinamarca
+2248,Cundinamarca
+2256,Cauca
+2257,Cauca
+2258,Cauca
+2259,Cauca
+2279,Ecuador
+2280,Ecuador
+2281,Ecuador
+2282,Ecuador
+2283,Ecuador
+2284,Ecuador
+2285,Ecuador
+2286,Pastaza
+2287,Pastaza
+2288,Pastaza
+2289,Pastaza
+2290,Cajamarca
+2291,Cajamarca
+2292,Cajamarca
+2294,Cajamarca
+2302,Ica
+2297,Ica
+2299,Ica
+2301,Ica
+2295,Lima
+2300,Lima
+2293,Lima
+2296,Lima
+2298,Lima
+2303,Arequipa
+2304,Arequipa
+2578,Arequipa
+2313,Atacama
+2314,Atacama
+2312,Atacama
+2305,Antofagasta
+2307,Antofagasta
+2308,Antofagasta
+2309,Antofagasta
+2317,Santa Cruz
+2316,Santa Cruz
+2318,Santa Cruz
+2310,La Paz
+2321,La Paz
+2320,La Paz
+2319,La Paz
+2311,La Paz
+2338,Alto Paraguay
+2337,Alto Paraguay
+2339,Bajo Parguay
+2343,Bajo Parguay
+2341,Bajo Parguay
+2342,Bajo Parguay
+2340,Bajo Parguay
+2344,Uruguay
+2345,Uruguay
+2346,Uruguay
+2347,Uruguay
+2450,São Paulo
+2306,São Paulo
+2455,São Paulo
+2451,São Paulo
+2452,São Paulo
+2456,São Paulo
+2453,São Paulo
+2402,Amazonas
+2401,Amazonas
+2403,Amazonas
+2404,Amazonas
+2405,Amazonas
+2407,Amazonas
+2549,Amazonas
+2532,Amazonas
+2410,Pará
+2408,Pará
+2412,Pará
+2415,Pará
+2413,Pará
+2411,Pará
+2600,Pará
+2429,Maranhão
+2424,Maranhão
+2425,Maranhão
+2427,Maranhão
+2426,Maranhão
+2430,Maranhão
+2419,Mato Grosso
+2416,Mato Grosso
+2417,Mato Grosso
+2418,Mato Grosso
+2420,Mato Grosso
+2550,Mato Grosso
+2421,Goiás
+2422,Goiás
+2423,Goiás
+2432,Nordeste
+2428,Nordeste
+2431,Nordeste
+2435,Nordeste
+2434,Nordeste
+2433,Nordeste
+2436,Bahia
+2439,Bahia
+2440,Bahia
+2437,Bahia
+2438,Bahia
+2442,Minas Gerais
+2446,Minas Gerais
+2445,Minas Gerais
+2444,Minas Gerais
+2441,Minas Gerais
+2443,Minas Gerais
+2447,Rio de Janeiro
+2448,Rio de Janeiro
+2449,Rio de Janeiro
+2461,Santa Catarina
+2462,Santa Catarina
+2459,Santa Catarina
+2457,Paraná
+2458,Paraná
+2460,Paraná
+2463,Rio Grande do Sul
+2467,Rio Grande do Sul
+2464,Rio Grande do Sul
+2466,Rio Grande do Sul
+2465,Rio Grande do Sul
+2132,South Atlantic Islands
+2129,South Atlantic Islands
+2130,South Atlantic Islands
+2324,Santiago
+2322,Santiago
+2323,Santiago
+2326,Santiago
+2325,Santiago
+2329,Los Rios
+2327,Los Rios
+2330,Los Rios
+2331,Los Rios
+2328,Los Rios
+2332,Araucania
+2333,Araucania
+2334,Araucania
+2335,Araucania
+2336,Araucania
+2348,Buenos Aires
+2355,Buenos Aires
+2353,Buenos Aires
+2354,Buenos Aires
+2350,Buenos Aires
+2351,Buenos Aires
+2352,Buenos Aires
+2349,Buenos Aires
+2362,Santa Fe
+2363,Santa Fe
+2361,Santa Fe
+2360,Entre Rios
+2359,Entre Rios
+2357,Entre Rios
+2358,Entre Rios
+2554,Entre Rios
+2356,Entre Rios
+2368,Jujuy
+2372,Jujuy
+2371,Jujuy
+2369,Jujuy
+2370,Jujuy
+2315,Jujuy
+1714,Jujuy
+2374,Catamarca
+2375,Catamarca
+2385,Catamarca
+2386,Catamarca
+2387,Catamarca
+2388,Catamarca
+2364,Chaco
+2365,Chaco
+2366,Chaco
+2367,Chaco
+2384,Córdoba de Argentina
+2383,Córdoba de Argentina
+2382,Córdoba de Argentina
+2379,Córdoba de Argentina
+2381,Córdoba de Argentina
+2380,Córdoba de Argentina
+2373,Tucumán
+2376,Tucumán
+2377,Tucumán
+2378,Tucumán
+2391,Patagonia Septentrional
+2392,Patagonia Septentrional
+2394,Patagonia Septentrional
+2396,Patagonia Septentrional
+2397,Patagonia Septentrional
+2393,La Pampa
+2395,La Pampa
+2390,La Pampa
+2389,La Pampa
+2131,Patagonia Meridional
+2398,Patagonia Meridional
+2399,Patagonia Meridional
+2400,Patagonia Meridional
+2468,New South Wales
+2469,New South Wales
+2470,New South Wales
+2471,New South Wales
+2472,New South Wales
+2473,New South Wales
+2474,New South Wales
+2475,New South Wales
+2508,New South Wales
+2476,Victoria
+2477,Victoria
+2478,Victoria
+2479,Victoria
+2480,Victoria
+2481,Victoria
+2482,Victoria
+2483,Queensland
+2484,Queensland
+2485,Queensland
+2486,Queensland
+2487,Queensland
+2488,Queensland
+2489,Queensland
+2490,Queensland
+2604,Queensland
+2491,South Australia
+2492,South Australia
+2493,South Australia
+2494,South Australia
+2495,South Australia
+2496,South Australia
+2497,Western Australia
+2498,Western Australia
+2499,Western Australia
+2500,Western Australia
+2501,Western Australia
+2502,Western Australia
+2503,Western Australia
+2504,Western Australia
+2601,Western Australia
+2602,Western Australia
+2605,Western Australia
+2505,Northern Territory
+2506,Northern Territory
+2507,Northern Territory
+2603,Northern Territory
+2509,North Island - Aotearoa
+2510,North Island - Aotearoa
+2511,North Island - Aotearoa
+2512,North Island - Aotearoa
+2571,North Island - Aotearoa
+2524,North Island - Aotearoa
+2516,South Island -  Te Waipounamu
+2513,South Island -  Te Waipounamu
+2514,South Island -  Te Waipounamu
+2515,South Island -  Te Waipounamu
+2244,Christmas & Cocos Islands
+2406,Christmas & Cocos Islands
+610,Caroline Islands
+2579,Caroline Islands
+2519,Caroline Islands
+2518,Caroline Islands
+2522,Caroline Islands
+658,Hawaiian Islands
+2526,Hawaiian Islands
+2623,Hawaiian Islands
+2454,Fiji
+2527,Fiji
+2541,Fiji
+2542,Fiji
+2520,Fiji
+2523,Fiji
+2517,Mariana Islands
+2521,Mariana Islands
+2528,Southern New Guina
+2529,Southern New Guina
+2531,Northern New Guinea
+1531,Northern New Guinea
+2530,Northern New Guinea
+2537,Northern New Guinea
+2534,Solomon Islands
+2536,Solomon Islands
+2539,Solomon Islands
+1097,New Caledonia
+2535,New Caledonia
+2540,Tonga
+2545,Tonga
+2546,Tonga
+2548,Tonga
+3249,Tonga
+2543,Samoa Islands
+2544,Samoa Islands
+2547,Samoa Islands
+801,Tahiti
+2551,Tahiti
+2552,Tahiti
+2553,Tahiti
+3319,Tahiti
+3320,Tahiti
+3321,Tahiti
+3322,Tahiti
