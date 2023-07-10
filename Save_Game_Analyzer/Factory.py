@@ -21,7 +21,7 @@ try:
         os.makedirs(os.path.join("outputs", output_folder ), exist_ok=True)
 
         # Read the content of the input file
-        with open(input_file, 'r') as file:
+        with open(input_file, 'r',  encoding='latin-1') as file:
             content = file.read()
 
         # Find all instances of "state_buildings="
@@ -82,7 +82,7 @@ try:
 
         # Load the state names from 'listofstates.csv' into a dictionary
         state_names = {}
-        with open('listofstates.csv', 'r') as file:
+        with open('listofstates.csv', 'r',  encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 state_names[row[0]] = row[1]

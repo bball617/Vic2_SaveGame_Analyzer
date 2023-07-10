@@ -4,7 +4,7 @@ import os
 import re
 
 # Set the locale for currency formatting
-locale.setlocale(locale.LC_ALL, 'en_US.UTF8')
+locale.setlocale(locale.LC_ALL, '')
 
 try:
 
@@ -29,7 +29,7 @@ try:
         #load provinces.csv in a list with a dictionary
         provinces_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Provinces.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r',  encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -45,7 +45,7 @@ try:
         #load factories.csv in a list with a dictionary
         factory_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Factory.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r',  encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -97,9 +97,10 @@ try:
             for z in factory_csv[1:]:
                 if x['Name'] == z['State'] and x['Tag'] == z['Tag']:
                     emp += float(z['Employees'])
-                    f_income += float(z['Revenue'].strip("$()").replace(",",""))
-                    f_profit += float(z['Profit'].strip("$()").replace(",",""))
+                    f_income += float(z['Revenue'].replace("$","").replace(",",""))
+                    f_profit += float(z['Profit'].replace("$","").replace(",",""))
                     fgdp += float(z['FGDP'])
+
 
             States[index]['Employees'] = emp
             States[index]['Revenue'] = float(format(f_income,"2f"))
