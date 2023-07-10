@@ -25,7 +25,7 @@ try:
         #load provinces.csv in a list with a dictionary
         provinces_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Provinces.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r',  encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -39,7 +39,7 @@ try:
         #load Goods.csv in a list with a dictionary
         Goods_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Goods.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r',  encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -49,7 +49,7 @@ try:
 
 
         # Read the content of the input file
-        with open(input_file, 'r') as file:
+        with open(input_file, 'r',  encoding='latin-1') as file:
             content = file.read()
 
         # Find all instances of "state_buildings="

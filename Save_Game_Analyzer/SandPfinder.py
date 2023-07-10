@@ -52,7 +52,8 @@ try:
     print(f"Province list has been saved to {csv_file}")
 
     # Open and parse the input file
-    with open(input_file, mode="r") as file:
+    with open(input_file, mode="r+", encoding='latin-1') as file:
+        print(file)
         for line in file:
             match = re.search(pattern, line)
             if match:

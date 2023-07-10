@@ -4,7 +4,7 @@ import os
 import re
 
 # Set the locale for currency formatting
-locale.setlocale(locale.LC_ALL, 'en_US.UTF8')
+locale.setlocale(locale.LC_ALL, '')
 
 try:
 
@@ -26,7 +26,7 @@ try:
         os.makedirs(os.path.join("outputs", output_folder ), exist_ok=True)
 
         # Open and parse the production_types.txt to add goods and factory into dictionary
-        with open(production_types, mode="r") as file:
+        with open(production_types, mode="r", encoding='latin-1') as file:
             content = file.read()
             building_to_good = {}
             lines = content.split('\n')
@@ -54,7 +54,7 @@ try:
         #load provinces.csv in a list with a dictionary
         provinces_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Provinces.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r', encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -72,7 +72,7 @@ try:
         #load factories.csv in a list with a dictionary
         factory_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Factory.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r', encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -85,7 +85,7 @@ try:
         #load Goods.csv in a list with a dictionary
         Goods_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Goods.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r', encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}
@@ -96,7 +96,7 @@ try:
         #load Artisans.csv in a list with a dictionary
         Artisans_csv = []
         folder_path = os.path.join("outputs", output_folder.strip("\t"), "Artisans.csv")
-        with open(folder_path, 'r') as file:
+        with open(folder_path, 'r', encoding='latin-1') as file:
             reader = csv.reader(file)
             for row in reader:
                 detail = {}

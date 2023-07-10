@@ -25,7 +25,7 @@ try:
         #input_file = os.path.join("testing", "testing.v2") Uncomment when testing to only try 1 save game file in testing called testing.v2
 
         # Read the content of the input file
-        with open(input_file, 'r') as file:
+        with open(input_file, 'r', encoding='latin-1') as file:
             content = file.read()
 
         instances = content.split('price_pool=') #fine price pool in save game file
